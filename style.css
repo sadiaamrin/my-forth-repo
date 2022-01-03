@@ -1,0 +1,31 @@
+body{
+
+    font-family: 'Gochi Hand', cursive;
+}
+h1{
+        font-size:50px;
+}
+    
+span{
+    color:yellowgreen;        
+}
+section{
+    display:flex;
+}
+.half{
+    width:50%;
+    padding-left:10%;
+}
+.half img{
+    width:100%;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(yellow,green);
+    padding:10px 20px;
+    border-radius: 10px;
+    color: papayawhip;
+    font-size: xx-large;
+    
+
+}
