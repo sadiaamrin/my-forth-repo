@@ -10,7 +10,7 @@ span{
     color:yellowgreen;        
 }
 section{
-    display:flex;
+    display: flex;
 }
 .half{
     width:50%;
@@ -29,3 +29,15 @@ section{
     
 
 }
+.dream{
+    display: flex;
+}
+.half2{
+    width:50%;
+    margin-top:100px;
+}
+.half2 img{
+        width:70%;
+    }
+
+    
